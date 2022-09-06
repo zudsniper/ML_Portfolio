@@ -1,4 +1,3 @@
-![CRT thinking](/crt-think.png)
 # ML_Portfolio
 _Jason Mcelhenney_
 
@@ -18,3 +17,6 @@ _No code yet. Come back later._
 Thanks for checking out my portfolio!
 
  -- Jason
+ 
+ ![CRT thinking](/crt-think.png)
+ [_@serialartistry_](https://twitter.com/serialartistry)
