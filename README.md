@@ -1,3 +1,4 @@
+![CRT thinking](/crt-think.png)
 # ML_Portfolio
 _Jason Mcelhenney_
 
