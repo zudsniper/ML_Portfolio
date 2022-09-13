@@ -6,9 +6,10 @@ Consider this repository a mixture of code and written response serving as my pe
 ## Documents
 
 - [**ML Overview**](/ML_Overview.pdf)
+- [**ML Data Exploration**](/ML_Data_Exploration.pdf)
 
 ## Code
-_No code yet. Come back later._
+- [**Data Exploration** `(C++)`](/data_exploration.cpp)
 
 ## My Links
 - [jasonmcelhenney.com](https://jasonmcelhenney.com/)
